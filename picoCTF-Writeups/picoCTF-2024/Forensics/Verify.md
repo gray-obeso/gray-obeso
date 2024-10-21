@@ -36,7 +36,7 @@ I solved this challenge using the browser webshell, so I accessed the files via 
 
 I was then prompted whether or not I wanted to accept the fingerprint, I typed `yes`. Then I entered in the password, `83dcefb7`.
 
-The files I recieved were `checksum.txt`, `decrypt.sh`, and a directory titled `files` that contained several files.
+The files I received were `checksum.txt`, `decrypt.sh`, and a directory titled `files` that contained several files.
 
 I then searched for the given SHA-256 hash by entering in the following command:
 
